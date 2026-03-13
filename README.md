@@ -1,13 +1,7 @@
 <h1 align="center">Oi 👋, sou Matheus Parahyba</h1>
-<h3 align="center">Foco:Primeira vaga como Analista de Dados Jr em Florianópolis/SC '-'</h3>
+<h3 align="center">Foco:Primeira vaga em Florianópolis/SC '-'</h3>
 
-- E-commerce Analytics [Finalizando - disponível em janeiro/2025](Finalizando - disponível em janeiro/2025)
-
-- Cursando ⁇ **ADS + 3 cursos Udemy especializados**
-
-- Data Pipeline com C# [Em desenvolvimento - 70% concluído](Em desenvolvimento - 70% concluído)
-
-- Análise de Empregos de Florianópolis🌉 [Ideação](Planejamento finalizado - codificação iniciando)
+- Cursando ⁇ **ADS + Alura BACKEND & SQL
 
 - E-mail [matheusaparahyba10@outlook.com](matheusaparahyba10@outlook.com)
 
