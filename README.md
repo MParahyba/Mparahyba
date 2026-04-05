@@ -5,7 +5,7 @@
 
 - E-mail [matheusaparahyba10@outlook.com](matheusaparahyba10@outlook.com)
 
-- Rotina💻 **4h estudos/dia (SQL + C# + BI)**
+- Rotina💻 **estudos/dia (SQL + C# + BI)**
 
 - Metodologia🤔 **Aprendizado ativo com projetos práticos**
 
