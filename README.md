@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, sou Matheus Parahyba</h1>
 <h3 align="center">Foco:Primeira vaga em Florianópolis/SC '-'</h3>
 
-- Cursando ⁇ **ADS + Alura BACKEND & SQL
+- Cursando ⁇ **Ciência de Dados + Alura BACKEND & SQL
 
 - E-mail [matheusaparahyba10@outlook.com](matheusaparahyba10@outlook.com)
 
-- Rotina💻 **estudos/dia (SQL + C# + BI)**
+- Rotina💻 **estudos/dia (SQL + PYTHON + BI)**
 
 - Metodologia🤔 **Aprendizado ativo com projetos práticos**
 
